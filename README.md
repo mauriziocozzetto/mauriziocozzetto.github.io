@@ -1,6 +1,6 @@
 ## Questo è il mio sito personale su Github
 
-Al momento non ci sono contenuti particolari. Li inserirò via via col tempo. Le pagine web sono scritte con un linguaggio di Markdown. Sotto alcunce prove. 
+Al momento non ci sono contenuti particolari. Li inserirò via via col tempo. Le pagine web sono scritte con un linguaggio di Markdown. Sotto alcune prove. 
 
 ### Markdown
 
