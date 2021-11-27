@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Questo è il mio sito personale su Github
 
-You can use the [editor on GitHub](https://github.com/mauriziocozzetto/mauriziocozzetto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Al momento non ci sono contenuti particolari. Li inserirò via via col tempo. Le pagine web sono scritte con un linguaggio di Markdown. Sotto alcunce prove. 
 
 ### Markdown
 
